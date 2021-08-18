@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahendrakar Saivenkat
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning Python as Iam aspiring for DataScience
+- 🌱 I am an aspiring for DataScience 
 - 📫 How to reach me - saivenkat108@gmail.com
 
 <!---
